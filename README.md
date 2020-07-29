@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github.com/aiperieldar/aiperieldar/blob/master/female-developer-vector.jpg" alt="popo" width=350px height=465px/>
+<img align="right" src="https://github.com/aiperieldar/aiperieldar/blob/master/female-developer-vector.jpg" alt="popo" width=450px height=465px/>
 
 ### Hi, I'm Aiperi 👋
 <!--
