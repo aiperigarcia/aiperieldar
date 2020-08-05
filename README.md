@@ -3,6 +3,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Aiperi!
 
+A Boston based Kyrgyz Software Engineer coding in Javascript, React JS and Node JS.
 
 - 🔭 I’m currently working on Resilient Stories.
 - 🤓 I’m currently learning React + Redux.
